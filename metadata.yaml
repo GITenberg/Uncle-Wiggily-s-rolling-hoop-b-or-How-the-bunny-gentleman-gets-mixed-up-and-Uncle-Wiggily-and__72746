@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '44668'
     url: http://www.gutenberg.org/2009/agents/44668
     wikipedia: https://en.wikipedia.org/wiki/Lansing_Campbell
+covers:
+- cover_type: archival
+  image_path: 72746-h/images/cover.jpg
 creator:
   author:
     agent_name: Garis, Howard Roger
@@ -23,6 +26,8 @@ creator:
     - http://www.gutenberg.org/ebooks/author/32638
     - https://en.wikipedia.org/wiki/Howard_R._Garis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72746#Uncle-Wiggily-s-rolling-hoop-b-or-How-the-bunny-gentleman-gets-mixed-up-and-Uncle-Wiggily-and_
 gutenberg_issued: '2024-01-18'
 gutenberg_type: Text
 identifiers:
