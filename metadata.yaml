@@ -1,0 +1,55 @@
+_repo: Uncle-Wiggily-s-rolling-hoop-b-or-How-the-bunny-gentleman-gets-mixed-up-and-Uncle-Wiggily-and__72746
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Campbell, Lang
+    alias: Campbell, Lansing
+    birthdate: 1882
+    deathdate: 1937
+    gutenberg_agent_id: '44668'
+    url: http://www.gutenberg.org/2009/agents/44668
+    wikipedia: https://en.wikipedia.org/wiki/Lansing_Campbell
+creator:
+  author:
+    agent_name: Garis, Howard Roger
+    aliases:
+    - Davidson, Marion
+    - Garis, Howard R.
+    birthdate: 1873
+    deathdate: 1962
+    gutenberg_agent_id: '808'
+    url: http://www.gutenberg.org/2009/agents/808
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/32638
+    - https://en.wikipedia.org/wiki/Howard_R._Garis
+description: ''
+gutenberg_issued: '2024-01-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72746'
+language: en
+pgterms:marc904: https://archive.org/details/uwrh_20211016
+pgterms:marc905: 20220520120118garis
+pgterms:marc906: '1919'
+pgterms:marc907: us
+production_note: Richard Tonsing, David Edwards, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited States :$bCharles E. Graham & Co, ,$c1919, copyright
+  1922, copyright 1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcsh 'Humorous stories, American'
+- !lcsh 'Children''s stories'
+- !lcsh 'Wit and humor, Juvenile'
+- !lcsh 'Rabbits -- Juvenile fiction'
+- !lcsh 'Uncle Wiggily (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Tricksters -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: 'Uncle Wiggily''s rolling hoop : $b or, How the bunny gentleman gets mixed
+  up, and Uncle Wiggily and the Snappy Shark, also Uncle Wiggily''s bob sled'
+url: http://www.gutenberg.org/ebooks/72746
